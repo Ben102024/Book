@@ -20,7 +20,7 @@ export default function Navbar() {
       <div className="container mx-auto px-4 py-3 flex items-center justify-between">
         {/* Logo */}
         <a href="/" className="text-2xl font-bold tracking-tight">
-          Booking.com
+          booking hotels 
         </a>
 
         {/* Desktop Menu */}
